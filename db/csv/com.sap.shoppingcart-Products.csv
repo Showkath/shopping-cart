@@ -1,0 +1,8 @@
+ID;name;description;stock;price;currency_code;manufacturer_ID;
+101;iPad;a tablet or slate computer;100;300;EUR;1
+102;iPhone12;a touchscreen-based smartphones;100;900;EUR;1
+103;Lenovo ThinkPad X1 Carbon (8th Gen);business laptop;1000.38;2
+104;Google Nest Wi-Fi Router;connect multiple Nest Wi-Fi units in a mesh network;100;200.99;EUR;3
+105;Google Chromecast;Google Chromecast;100;50;EUR;3
+106;Amazon Alexa Fire Tv Stick;Fire TV Stick into your HDTV and start streaming in minutes;100;50;EUR;4
+
