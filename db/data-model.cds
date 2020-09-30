@@ -1,7 +1,7 @@
 namespace com.sap.shoppingcart;
-using { Currency, managed, sap,cuid  } from '@sap/cds/common';
+using { Currency, managed, sap,cuid,Country } from '@sap/cds/common';
 entity Products : managed 
-{
+{ 
   key ID : Integer;
   name   : String(100);
   description : String;
@@ -14,6 +14,7 @@ entity Manufacturer
 {
   key ID : UUID;
   name   : String(111);
+  country  : Country;//to be other entity also
   products  : Association to many Products on products.manufacturer = $self;
 }
 entity Orders : cuid, managed {

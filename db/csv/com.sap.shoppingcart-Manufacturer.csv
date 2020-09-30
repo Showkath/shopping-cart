@@ -1,5 +1,5 @@
-ID;name
-1e2f2640-6866-4dcf-8f4d-3027aa831cad;Apple
-2e2f2640-6866-4dcf-8f4d-3027aa831cad;Lenovo
-3e2f2640-6866-4dcf-8f4d-3027aa831cad;Google
-4e2f2640-6866-4dcf-8f4d-3027aa831cad;Amazon
+ID;name;country_code
+17e56c6c-ff15-4a41-b68e-1af2aa2639a5;Apple;USA
+27e56c6c-ff15-4a41-b68e-1af2aa2639a5;Lenovo;USA
+37e56c6c-ff15-4a41-b68e-1af2aa2639a5;Google;USA
+47e56c6c-ff15-4a41-b68e-1af2aa2639a5;Amazon;USA

@@ -1,16 +1,23 @@
 {
   "name": "shopping-cart",
   "version": "1.0.0",
-  "description": "A simple CAP project.",
+  "description": "shopping cart simple CAP project.",
   "repository": "<Add your repository here>",
-  "license": "UNLICENSED",
+  "license": "SAP",
+  "author": "iamshowkath",
   "private": true,
   "dependencies": {
-    "@sap/cds": "^4",
-    "express": "^4"
+    "@sap/cds": "^4.1.9",
+    "@sap/hana-client": "^2.5.109",
+    "express": "^4",
+    "@sap/cds-dk": "^1.8.5"
   },
   "devDependencies": {
-    "sqlite3": "^4"
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-subset": "^1.6.0",
+    "concurrently": "^5.2.0",
+    "mbt": "^1.0.15"
   },
   "scripts": {
     "start": "npx cds run"

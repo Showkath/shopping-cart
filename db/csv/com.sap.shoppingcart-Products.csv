@@ -1,8 +1,7 @@
-ID;name;description;stock;price;currency_code;manufacturer_ID;
-101;iPad;a tablet or slate computer;100;300;EUR;1
-102;iPhone12;a touchscreen-based smartphones;100;900;EUR;1
-103;Lenovo ThinkPad X1 Carbon (8th Gen);business laptop;1000.38;2
-104;Google Nest Wi-Fi Router;connect multiple Nest Wi-Fi units in a mesh network;100;200.99;EUR;3
-105;Google Chromecast;Google Chromecast;100;50;EUR;3
-106;Amazon Alexa Fire Tv Stick;Fire TV Stick into your HDTV and start streaming in minutes;100;50;EUR;4
-
+ID;name;description;stock;price;currency_code;manufacturer_ID;modifiedAt;modifiedBy;createdAt;createdBy
+101;iPad;"a tablet or slate computer";100;300;EUR;17e56c6c-ff15-4a41-b68e-1af2aa2639a5;2020-09-30;iamshowkath@abc.com;2020-09-30;iamshowkath@abc.com
+102;iPhone12;"a touchscreen-based smartphones";100;900;EUR;17e56c6c-ff15-4a41-b68e-1af2aa2639a5;2020-09-30;iamshowkath@abc.com;2020-09-30;iamshowkath@abc.com
+103;Lenovo ThinkPad X1 Carbon (8th Gen);"business laptop";100;1000.38;EUR;27e56c6c-ff15-4a41-b68e-1af2aa2639a5;2020-09-30;user1@sap.com;2020-09-30;user1@sap.com
+104;Google Nest Wi-Fi Router;"connect multiple Nest Wi-Fi units in a mesh network";100;200.99;EUR;37e56c6c-ff15-4a41-b68e-1af2aa2639a5;2020-09-30;user2@sap.com;2020-09-30;user2@sap.com
+105;Google Chromecast;"Google Chromecast";100;50;EUR;37e56c6c-ff15-4a41-b68e-1af2aa2639a5;2020-09-30;user2@sap.com;2020-09-30;user2@sap.com
+106;Amazon Alexa Fire Tv Stick;"Fire TV Stick into your HDTV and start streaming in minutes";100;50;EUR;47e56c6c-ff15-4a41-b68e-1af2aa2639a5;2020-09-30;user3@sap.com;2020-09-30;user3@sap.com
