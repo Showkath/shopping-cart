@@ -1,10 +1,9 @@
 # shopping-cart
 ### About 
 This is a demo project for SAP Cloud Application Programming Model (CAP).
-The idea was to build some basic shopping cart application using CAP NODE JS with unit tests
+The idea was to build some basic shopping cart application using CAP nodejs with unit tests
 ### Setup
 
-In the samples folder run:
 
 ```sh
 npm install
